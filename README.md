@@ -296,13 +296,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **OpenCV community** for computer vision tools
 - **Scientific Python ecosystem** for numerical computing libraries
 
-## 📞 Contact
-
-For questions, suggestions, or issues, please:
-- Open an issue on GitHub
-- Contact the development team
-- Check the documentation for common solutions
-
 ---
 
 **Note**: This application is for educational and research purposes. It simulates brain activity patterns and should not be used for medical diagnosis or treatment.
