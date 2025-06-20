@@ -1,4 +1,5 @@
 # Brain-Computer Interface (BCI) - Motor Imagery Analysis & Real-time Movement Detection
+# 🔗 Link - https://syncwave.streamlit.app
 
 A comprehensive Streamlit application for analyzing motor imagery EEG data from the BCI Competition IV 2a dataset and real-time movement detection using computer vision.
 
