@@ -59,7 +59,7 @@ class MotorImageryDataset:
         return trials_c, classes_c
 
 
-st.set_page_config(page_title="BCI", layout="wide")
+st.set_page_config(page_title="BCI", layout="wide",initial_sidebar_state='expanded')
 
 
 st.markdown("<h1 style='text-align: center;'>Brain Computer Interection (BCI)</h1>", unsafe_allow_html=True)
