@@ -81,7 +81,7 @@ with open(f"{subject}.npz", "rb") as file:
 
 
 st.sidebar.divider()
-st.sidebar.page_link(page="https://github.com/rounakdey2003", label=":blue-background[:blue[Github]]",
+st.sidebar.page_link(page="https://github.com/rounakdey2003/SyncWave", label=":blue-background[:blue[Github]]",
                      help='Teleport to Github',
                      use_container_width=False)
 
