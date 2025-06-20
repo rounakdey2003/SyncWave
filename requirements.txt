@@ -2,7 +2,7 @@ streamlit
 numpy
 plotly
 Pillow
-opencv-python
+opencv-python-headless
 scipy
 pandas
 matplotlib
