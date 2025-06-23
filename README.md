@@ -299,4 +299,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
+**Made with ❤️ by [Rounak Dey](https://github.com/rounakdey2003)**
+
 **Note**: This application is for educational and research purposes. It simulates brain activity patterns and should not be used for medical diagnosis or treatment.
